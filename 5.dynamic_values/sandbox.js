@@ -1,0 +1,17 @@
+var ageAny = 25;
+ageAny = true;
+console.log(ageAny);
+ageAny = 'Hello';
+console.log(ageAny);
+ageAny = { name: 'Luige' };
+console.log(ageAny);
+var mixed5 = [];
+mixed5.push(5);
+mixed5.push("mario");
+mixed5.push(false);
+console.log(mixed5);
+var ninja5;
+ninja5 = { name: "Yoshi", age: 25 };
+console.log(ninja5);
+ninja5 = { name: 25, age: "Yoshi" };
+console.log(ninja5);

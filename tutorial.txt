@@ -1,0 +1,1 @@
+github link: https://github.com/iamshaunjp/typescript-tutorial/blob/lesson-2/styles.css
