@@ -32,7 +32,7 @@ logDetails = (ninja: {name:string, age:number}) => {
     console.log(`${ninja.name} is ${ninja.age} years old`)
 }
 
-//^ using a type wthin the function
+//^ using a type wthin the function.
 type person = {name:string, age:number}
 
 logDetails = (ninja: person) => {
